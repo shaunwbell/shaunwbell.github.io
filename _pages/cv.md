@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Meteorology, University of Oklahoma, 2004
+* M.S. in Marine and Atmospheric Sciences, Stony Brook University, 2006
+* M.A. in Teaching, Seattle Pacific University, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021+ Pacific Marine Environmental Laboratory (PMEL)
+  * EcoFOCI
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013-2021 University of Washington (JISAO/CICOES)
+  * EcoFOCI
+
+* 2007-2011 Science Systems and Applications Inc. (SSAI)
+  * SMART-COMMIT
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Lots of them.... Python
 
 Publications
 ======
@@ -56,4 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to quite a few different slack teams
