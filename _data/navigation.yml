@@ -12,5 +12,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
+  - title: "Dynamic Plots"
+    url: /dynamic-plots/
+
   - title: "CV"
     url: /cv/
