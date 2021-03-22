@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "NOAA/PMEL Research Scientist"
   location         : "Seattle"
-  employer         :
+  employer         : "University of Washington"
   pubmed           : 
-  googlescholar    :
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=gorxhWIAAAAJ&hl=en&authuser=1"
+  email            : shaun (dot) bell (at) noaa (dot) gov
   researchgate     : "https://www.researchgate.net/profile/Shaun_Bell"
   uri              :
   bitbucket        :
@@ -242,6 +242,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _dynamicplots
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: pages
       author_profile: true
       share: true
 
