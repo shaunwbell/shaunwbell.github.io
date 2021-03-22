@@ -15,5 +15,8 @@ main:
   - title: "Dynamic Plots"
     url: /dynamic-plots/
 
+  - title: "files"
+    url: /files/
+
   - title: "CV"
     url: /cv/
